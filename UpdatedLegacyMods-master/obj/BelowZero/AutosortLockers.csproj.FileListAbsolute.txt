@@ -1,0 +1,10 @@
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.csproj.AssemblyReference.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.Properties.Resources.resources
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.csproj.GenerateResource.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\MyPluginInfo.cs
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.AssemblyInfoInputs.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.AssemblyInfo.cs
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.csproj.CoreCompileInputs.cache
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\bin\BelowZero\AutosortLockers.dll
+C:\Users\Cookay\Desktop\Mod Sourcecode\fixing stupid bz problem\UpdatedLegacyMods-master\AutosortLockers\obj\BelowZero\AutosortLockers.dll
