@@ -1,0 +1,83 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\fixing stupid bz problem\\UpdatedLegacyMods-master\\AutosortLockers\\AutosortLockers.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\fixing stupid bz problem\\UpdatedLegacyMods-master\\AutosortLockers\\AutosortLockers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\fixing stupid bz problem\\UpdatedLegacyMods-master\\AutosortLockers\\AutosortLockers.csproj",
+        "projectName": "AutosortLockers",
+        "projectPath": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\fixing stupid bz problem\\UpdatedLegacyMods-master\\AutosortLockers\\AutosortLockers.csproj",
+        "packagesPath": "C:\\Users\\Cookay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cookay\\Desktop\\Mod Sourcecode\\fixing stupid bz problem\\UpdatedLegacyMods-master\\AutosortLockers\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cookay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "BepInEx.Analyzers": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.*, )"
+            },
+            "BepInEx.PluginInfoProps": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[*-*, )"
+            },
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "PolySharp": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[1.13.*, )"
+            },
+            "SubnauticaZero.Nautilus": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[*-*, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
