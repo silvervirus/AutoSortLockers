@@ -1,0 +1,7 @@
+/media/cookay/windows/Backup again/Mod Sourcecode/fixing stupid bz problem/UpdatedLegacyMods-master/AutosortLockers/obj/Debug/AutosortLockers.Properties.Resources.resources
+/media/cookay/windows/Backup again/Mod Sourcecode/fixing stupid bz problem/UpdatedLegacyMods-master/AutosortLockers/obj/Debug/AutosortLockers.csproj.GenerateResource.cache
+/media/cookay/windows/Backup again/Mod Sourcecode/fixing stupid bz problem/UpdatedLegacyMods-master/AutosortLockers/obj/Debug/MyPluginInfo.cs
+/media/cookay/windows/Backup again/Mod Sourcecode/fixing stupid bz problem/UpdatedLegacyMods-master/AutosortLockers/obj/Debug/AutosortLockers.GeneratedMSBuildEditorConfig.editorconfig
+/media/cookay/windows/Backup again/Mod Sourcecode/fixing stupid bz problem/UpdatedLegacyMods-master/AutosortLockers/obj/Debug/AutosortLockers.AssemblyInfoInputs.cache
+/media/cookay/windows/Backup again/Mod Sourcecode/fixing stupid bz problem/UpdatedLegacyMods-master/AutosortLockers/obj/Debug/AutosortLockers.AssemblyInfo.cs
+/media/cookay/windows/Backup again/Mod Sourcecode/fixing stupid bz problem/UpdatedLegacyMods-master/AutosortLockers/obj/Debug/AutosortLockers.csproj.CoreCompileInputs.cache
